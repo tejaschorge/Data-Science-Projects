@@ -19,7 +19,7 @@ This project classifies text into human emotions (joy, sadness, fear, anger, sur
 - TensorFlow / Keras
 - Scikit-learn
 - Pandas, NumPy
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 
 ---
 
