@@ -27,3 +27,14 @@ Using a semicolon-separated dataset (`Dataset/train.txt`), we unravel the emotio
    - Dense + Flatten layers
 4. **Training:** Model trained for 10 epochs with validation.
 5. **Prediction:** Predicts emotion from new user input text.
+
+---
+
+## 📊 Results
+
+- ✅ The model achieves **high accuracy** on the validation set.
+- 🧠 It performs well in predicting emotions across various input types.
+- 🚀 The solution is **ready for deployment** in:
+  - NLP pipelines  
+  - Emotion-aware chatbots  
+  - User sentiment dashboards 
