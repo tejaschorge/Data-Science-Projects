@@ -1,21 +1,14 @@
-# 🧠 Emotion Text Classifier
+# 🔍 Emotion Text Classifier
 
-This project classifies text into human emotions (joy, sadness, fear, anger, surprise, love) using machine learning and NLP techniques. It demonstrates a full pipeline from preprocessing to model training and prediction.
+Welcome to an advanced **Natural Language Processing (NLP)** project that dives deep into the realm of **text emotion classification**. This project leverages the power of **Python**, **machine learning**, and **state-of-the-art NLP techniques** to analyze and classify emotions embedded in textual data.
 
----
-
-## 📌 Project Overview
-
-- **Goal:** Predict emotions from raw input text using deep learning.
-- **Dataset:** Provided in `dataset/train.txt` with text and emotion labels.
-- **Problem Type:** Multiclass classification (6 emotions).
-- **Tools Used:** Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy.
+Using a semicolon-separated dataset (`Dataset/train.txt`), we unravel the emotional undertones of human language and build intelligent models capable of understanding sentiment at scale. From data preprocessing to model evaluation, this project showcases a complete pipeline for emotion detection in text.
 
 ---
 
 ## 🧰 Technologies & Libraries
 
-- Python 3.11
+- Python
 - TensorFlow / Keras
 - Scikit-learn
 - Pandas, NumPy
