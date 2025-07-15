@@ -32,9 +32,9 @@ Using a semicolon-separated dataset (`Dataset/train.txt`), we unravel the emotio
 
 ## 📊 Results
 
-- The model achieves **high accuracy** on the validation set.
+- The model achieves high accuracy on the validation set.
 - It performs well in predicting emotions across various input types.
-- The solution is **ready for deployment** in:
+- The solution is ready for deployment in:
   - NLP pipelines  
   - Emotion-aware chatbots  
   - User sentiment dashboards 
