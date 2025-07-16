@@ -19,3 +19,14 @@ Welcome! This repository is a curated collection of hands-on data science projec
 | No. | Project Title | Category | Link |
 |-----|---------------|----------|------|
 | 1   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
+
+---
+
+## 💼 Why This Repository?
+
+Whether you're a recruiter, hiring manager, or collaborator—this collection demonstrates:
+
+- ✅ Practical experience in solving **industry-relevant problems**
+- 🔄 Adaptability across **domains and data types**
+- 📚 A clear **learning progression** and commitment to growth
+- 🧼 Passion for **clean code** and insightful **storytelling**
