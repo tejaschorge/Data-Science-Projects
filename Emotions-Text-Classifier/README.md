@@ -1,6 +1,6 @@
 # 🔍 Emotion Text Classifier
 
-Welcome to an advanced **Natural Language Processing (NLP)** project that dives deep into the realm of **text emotion classification**. This project leverages the power of **Python**, **machine learning**, and **state-of-the-art NLP techniques** to analyze and classify emotions embedded in textual data.
+Welcome to a **Natural Language Processing (NLP)** project that dives deep into the realm of **text emotion classification**. This project leverages the power of **Python**, **machine learning**, and **NLP techniques** to analyze and classify emotions embedded in textual data.
 
 Using a semicolon-separated dataset (`Dataset/train.txt`), we unravel the emotional undertones of human language and build intelligent models capable of understanding sentiment at scale. From data preprocessing to model evaluation, this project showcases a complete pipeline for emotion detection in text.
 
