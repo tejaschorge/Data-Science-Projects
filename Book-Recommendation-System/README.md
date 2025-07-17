@@ -10,13 +10,13 @@ From parsing and cleaning complex datasets to building intuitive models and visu
 
 ## 🔄 Workflow: Book Recommendation System
 
-1. **Data Loading**:
+**1. Data Loading:**
    
    Reads books_data.csv file.
 
    Loads book information: bookID, title, authors, average_rating.
 
-2. **Preprocessing**:
+**2. Preprocessing:**
    
    Converts average_rating column to numeric.
 
@@ -24,20 +24,24 @@ From parsing and cleaning complex datasets to building intuitive models and visu
 
    Cleans and tokenizes text using TF-IDF Vectorizer with stopword removal.
 
-3. **Similarity Computation**
-Computes cosine similarity on the TF-IDF matrix of book_content to measure textual closeness between books.
+**3. Similarity Computation:**
+   
+   Computes cosine similarity on the TF-IDF matrix of book_content to measure textual closeness between books.
 
-4. **Recommendation Function**
-Accepts a book title as input.
+**4. Recommendation Function:**
 
-Retrieves the top 10 most similar books based on cosine similarity scores.
+   Accepts a book title as input.
 
-5. **Visualization (EDA)**
-Plots histogram of average book ratings using Plotly.
+   Retrieves the top 10 most similar books based on cosine similarity scores.
 
-Visualizes top 10 most prolific authors using horizontal bar chart.
+**5. Visualization:**
 
-6. **Prediction**
-Takes a user-provided book title.
+   Plots histogram of average book ratings using Plotly.
 
-Returns top 10 content-based book recommendations.
+   Visualizes top 10 most prolific authors using horizontal bar chart.
+
+**6. Prediction:**
+   
+   Takes a user-provided book title.
+
+   Returns top 10 content-based book recommendations.
