@@ -57,16 +57,16 @@ From parsing and cleaning complex datasets to building intuitive models and visu
 
 ## 📊 Results
 
-The recommendation system effectively suggests relevant books based on content similarity using TF-IDF and cosine similarity.
+- The recommendation system effectively suggests relevant books based on content similarity using TF-IDF and cosine similarity.
 
-It performs well in identifying thematically related books from over 11,000 entries.
+- It performs well in identifying thematically related books from over 11,000 entries.
 
-The solution is ready for deployment in:
+- The solution is ready for deployment in:
 
-- Book discovery engines
+   - Book discovery engines
 
-- Personalized recommendation dashboards
+   - Personalized recommendation dashboards
 
-- Library or bookstore management tools
+   - Library or bookstore management tools
 
 
