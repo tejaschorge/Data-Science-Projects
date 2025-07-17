@@ -19,6 +19,7 @@ Welcome! This repository is a curated collection of hands-on data science projec
 | No. | Project Title | Category | Link |
 |-----|---------------|----------|------|
 | 1   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
+| 2   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
 
 ---
 
