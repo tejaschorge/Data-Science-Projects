@@ -24,7 +24,7 @@ From parsing and cleaning complex datasets to building intuitive models and visu
 
    - Creates a new book_content feature by combining title and authors.
 
-   Cleans and tokenizes text using TF-IDF Vectorizer with stopword removal.
+   - Cleans and tokenizes text using TF-IDF Vectorizer with stopword removal.
 
 
 **3. Similarity Computation:**
