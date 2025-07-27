@@ -20,6 +20,7 @@ Welcome! This repository is a curated collection of hands-on data science projec
 |-----|---------------|----------|------|
 | 1   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
 | 2   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
+| 3   | Online-Payement-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
 
 ---
 
