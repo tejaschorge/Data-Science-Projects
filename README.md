@@ -18,7 +18,7 @@ Welcome! This repository is a curated collection of hands-on data science projec
 
 | No. | Project Title | Category | Link |
 |-----|---------------|----------|------|
-| 1   | End to End Chatbot using NLP | NLP | [Project Link](./End to End Chatbot using NLP) |
+| 1   | End to End Chatbot using NLP | NLP | [Project Link](https://github.com/tejaschorge/Data-Science-Projects/tree/main/End%20to%20End%20Chatbot%20using%20NLP) |
 | 2   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
 | 3   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
 | 4   | Online-Payement-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
