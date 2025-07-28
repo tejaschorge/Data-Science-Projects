@@ -18,9 +18,10 @@ Welcome! This repository is a curated collection of hands-on data science projec
 
 | No. | Project Title | Category | Link |
 |-----|---------------|----------|------|
-| 1   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
-| 2   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
-| 3   | Online-Payement-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
+| 1   | End to End Chatbot using NLP | NLP | [Project Link](./End to End Chatbot) |
+| 2   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
+| 3   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
+| 4   | Online-Payement-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
 
 ---
 
