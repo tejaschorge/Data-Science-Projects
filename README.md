@@ -20,8 +20,9 @@ Welcome! This repository is a curated collection of hands-on data science projec
 |-----|---------------|----------|------|
 | 1   | Emotions-Text-Classifier | NLP | [Project Link](./Emotions-Text-Classifier) |
 | 2   | Book Recommendation System | Recommender System | [Project Link](./Book-Recommendation-System) |
-| 3   | Online-Payement-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
+| 3   | Online-Payment-Fraud-Detection | ML | [Project Link](./Online-Payment-Fraud-Detection) |
 | 4   | End to End Chatbot using NLP | NLP | [Project Link](https://github.com/tejaschorge/Data-Science-Projects/tree/main/End%20to%20End%20Chatbot%20using%20NLP) |
+| 5   | TikTok Review Sentiment Analysis Using ML | NLP | [Project Link](./) |
 
 ---
 
