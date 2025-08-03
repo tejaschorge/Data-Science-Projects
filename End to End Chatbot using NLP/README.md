@@ -1,4 +1,4 @@
-# 🧠 End to End Chatbot 
+# 🤖 End to End Chatbot 
 
 This project presents a fully functional, end-to-end chatbot built using Python, Natural Language Processing (NLP), and Machine Learning. The chatbot is capable of handling multiple user queries and delivering appropriate responses based on predefined intents. It uses TF-IDF Vectorization to transform user input into numerical features and a Logistic Regression model to classify the input into the most probable intent. Once classified, it selects a random response associated with that intent to simulate human-like conversation.
 
