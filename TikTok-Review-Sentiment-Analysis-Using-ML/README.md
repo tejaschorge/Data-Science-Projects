@@ -22,13 +22,13 @@ This project demonstrates core NLP techniques, sentiment analysis workflows, and
 
 ## 🔄 Project Workflow
 
-1. Data Collection
+**1. Data Collection**
 
     - Load a dataset containing TikTok user comments or reviews in CSV format.
 
     - Extract relevant columns (e.g., content, score) for analysis.
 
-2. Text Preprocessing
+**2. Text Preprocessing**
 
     - Convert text to lowercase.
 
@@ -38,7 +38,7 @@ This project demonstrates core NLP techniques, sentiment analysis workflows, and
 
     - Apply stemming to reduce words to their base form using NLTK's SnowballStemmer.
 
-3. Exploratory Data Analysis (EDA)
+**3. Exploratory Data Analysis (EDA)**
 
     - Use value_counts() to analyze score distribution.
 
@@ -46,13 +46,13 @@ This project demonstrates core NLP techniques, sentiment analysis workflows, and
 
     - Generate word clouds to highlight frequently used words in positive, negative, and neutral comments.
 
-4. Sentiment Analysis
+**4. Sentiment Analysis**
 
     - Use NLTK’s SentimentIntensityAnalyzer (VADER) to compute sentiment scores (Positive, Negative, Neutral) for each comment.
 
     - Append these scores to the dataset for further analysis.
 
-5. Visualization
+**5. Visualization**
 
     - Generate sentiment-specific word clouds (e.g., for Positive vs. Negative reviews).
 
@@ -60,13 +60,13 @@ This project demonstrates core NLP techniques, sentiment analysis workflows, and
 
     - Display overall sentiment of the dataset based on total score aggregation.
 
-6. Sentiment Interpretation
+**6. Sentiment Interpretation**
 
     - Sum all sentiment scores to determine whether the general tone of TikTok comments is Positive, Negative, or Neutral.
 
     - Print or visualize the final sentiment result with emoji indicators for quick understanding.
 
-7. Final Output
+**7. Final Output**
 
     - A cleaned, structured dataset with sentiment scores.
 
