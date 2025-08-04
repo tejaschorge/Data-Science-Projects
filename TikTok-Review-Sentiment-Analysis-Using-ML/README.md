@@ -20,7 +20,7 @@ This project demonstrates core NLP techniques, sentiment analysis workflows, and
 
 ---
 
-##🔄 Project Workflow
+## 🔄 Project Workflow
 
 1. Data Collection
 
